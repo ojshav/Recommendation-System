@@ -1,0 +1,8 @@
+uv 
+pandas
+numpy
+kaggle 
+scikit-learn
+seaborn
+matplotlib
+ipykernel
